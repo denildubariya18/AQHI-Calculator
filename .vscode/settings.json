@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "A2_functions.C": "cpp",
+    "1230348A2_main.C": "cpp",
+    "a3_functions.h": "c",
+    "functions.h": "c",
+    "math.h": "c"
+  },
+  "C_Cpp.errorSquiggles": "enabled"
+}
